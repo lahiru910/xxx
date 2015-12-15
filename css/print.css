@@ -1,0 +1,33 @@
+#wrapper{
+    width:210px;
+    min-height:300px;
+    margin:0 auto;
+
+}
+
+#header
+{
+	width:210px;
+	height:210px;
+	text-align: center;
+	font-family: Georgia;
+
+}
+#middle
+{
+	margin-left: 25px;
+	text-align: left;
+	font-family: serif;
+	width:210px;
+	min-height:30px;	
+}
+
+#footer
+{
+
+	text-align: center;
+	font-family: Georgia;
+	width:210px;
+	min-height:30px;	
+
+}

@@ -1,0 +1,172 @@
+#wrapper{
+    width:1000px;
+    min-height:600px;
+    margin:0 auto;
+}
+
+#header{
+    width:1000px;
+    height: 100px;
+	}
+ #cover{
+    width:100%;
+    height:100px;   
+    
+ }
+
+ #upper{
+    width:100%;
+    height: 40px;
+    
+}
+
+#mid{
+    width: 100%;
+    height: 20px;
+    font-family: inherit;
+    font-size: 20px;
+    text-align:center;
+    color:#FFFF00;
+    
+}
+
+
+#lower{
+    width: 100%;
+    height: 40px;
+    font-family: inherit;
+    margin-top:7px; 
+    font-size: 30px;  
+    text-align:center; 
+    color:#FFFF00;
+}
+ 
+ #content
+{
+ width: 1000px;
+ min-height: 430px;   
+ background-color: white;
+ text-align: center;
+ vertical-align: center;
+}
+#centerpanel1
+{
+  min-height:220px; 
+  width:300px ;
+  float: left;
+  text-align: center;
+ vertical-align: center;
+ background-color: white;
+ margin-left: 350px;
+  
+    
+}
+#centerpanel7
+{
+  min-height:220px; 
+  min-width:300px ;
+  float: left;
+  text-align: center;
+ background-color: white;
+ margin-left: 250px;
+  
+    
+}
+	
+#container{
+    width:1000px;
+    min-height: 670px;
+    text-align: center;
+    }
+    #links
+{
+height:30px;
+text-align:center; 
+ padding-top: 10px;  
+ color: white;
+    
+    
+}
+
+#link1
+{
+height:20px;
+width:200px;  
+float: left;
+ color: white;
+
+}
+#link2
+{
+height:20px;
+width:200px; 
+float: left;
+ color: white;
+}
+#link3
+{
+height:20px;
+width:200px;
+float: left;
+ color: white; 
+}
+#link4
+{
+    float: left;
+height:20px;
+width:200px;
+ color: white;  
+}
+#link5
+{
+height:20px;
+float: left;
+width:200px;
+ color: white;  
+}
+
+#footer{
+    width:1000px;
+    height:30px;
+    background: #cc0000;
+    position:relative;
+}
+
+#ftitle{
+    
+    font-size: 15px;
+    padding-top: 8px;
+    color: white;
+    width:100%;
+    font-family: tahoma;
+    text-align: center;
+}
+
+#cenupbdr
+{
+    width:1000px;
+    height:75px;
+
+}
+
+#table1
+{
+            width: 100%;
+            }
+        thead 
+        {
+            background-color: black;
+            color: white;
+            text-indent: 14px;
+            text-align: left;
+            border-color: black;
+            border-size:2px; 
+        }
+        tbody tr:nth-child(odd)
+         {
+            background-color: rgba(0, 0, 255, 0.3); /* green, 10% alpha */
+        }
+        tbody tr:nth-child(even) 
+        {
+            background-color: rgba(0, 0, 255, 0.1); /* red, 30% alpha */
+            }

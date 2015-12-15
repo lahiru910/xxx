@@ -1,0 +1,396 @@
+#wrapper{
+    width:1000px;
+    min-height:300px;
+    margin:0 auto;
+}
+
+#header{
+    width:1000px;
+    height: 100px;
+	}
+ #cover{
+    width:100%;
+    height:100px;   
+    
+ }
+ 
+#upper{
+    width:100%;
+    height: 40px;
+    
+}
+
+#centerpanel
+{
+  min-height:520px; 
+  width:300px ;
+  float: left;
+  text-align: center;
+ background-color: burlywood;
+ margin-left: 350px;
+  
+    
+}
+#centerpanel1
+{
+  min-height:220px; 
+  width:300px ;
+  float: left;
+  text-align: center;
+ background-color: burlywood;
+ margin-left: 350px;
+  
+    
+}
+#slider1_container
+{
+
+    border-width: 10px;
+    border-color: black;
+    position: relative; 
+    top: 0px; 
+    left: 300px; 
+    width: 400px; 
+    height: 300px;
+}
+
+
+#centerpanel2
+{
+  min-height:240px; 
+  width:300px ;
+  float: left;
+  text-align: center;
+ background-color: burlywood;
+ margin-left: 350px;
+}
+
+#centerbar2
+{
+  min-height:300px; 
+  width:250px ;
+  float: left;
+  text-align: center;
+ background-color: burlywood;
+  
+    
+}
+#mid{
+    width: 100%;
+    height: 20px;
+    font-family: inherit;
+    font-size: 20px;
+    text-align:center;
+    color:#FFFF00;
+    
+}
+
+#lower{
+    width: 100%;
+    height: 40px;
+    font-family: inherit;
+    margin-top:7px; 
+    font-size: 30px;  
+    text-align:center; 
+    color:#FFFF00;
+}
+ 
+
+	
+#container{
+    width:1000px;
+    min-height: 670px;
+    }
+
+    #container1{
+    width:1000px;
+    min-height: 450px;
+    }
+    
+
+
+#midcontainer{
+    width:820px;
+    min-height:450px ;
+    float: left;
+    
+}	
+
+#firstrow{
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 30px;
+    margin-left:200px ;
+    width:600px;
+    height:200px;
+
+    
+}
+
+#route{
+   
+    width:190px;
+    height: 190px;
+    float: left;
+}
+
+#contentad
+{
+ width: 1000px;
+ min-height: 650px;   
+ background-color: white;
+ text-align: center;
+    
+}
+#tickets{
+   
+    width:190px;
+    height: 190px;
+    background-color:black;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#special{
+   
+    width:190px;
+    height: 190px;
+    background-color:black;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#secondrow{
+    
+    
+    margin-left:200px ;
+
+    width:800px;
+    height:200px;
+    
+}
+
+#abut{
+   width:390px;
+    height: 190px;
+   margin-left: 10px;
+    float: left;
+    
+       
+}
+
+#link{
+   
+    width:190px;
+    height: 190px;
+    background-color:black;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#footer{
+    width:1000px;
+    height:30px;
+    position:relative;
+    color: white;
+}
+
+#ftitle{
+    
+    font-size: 15px;
+    padding-top: 8px;
+    color: white;
+    width:100%;
+    font-family: tahoma;
+    text-align: center;
+}
+
+#tile1
+{
+    
+    width:190px;
+    height: 190px;
+    float: left;
+    
+    }
+
+#tile2
+{
+   width:190px;
+    height: 190px;
+    float: left;
+     
+    
+    }
+#tile3
+{
+   width:190px;
+    height: 190px;
+    float: left;
+     
+    
+    }
+    
+#tile4
+{ width:390px;
+    height: 190px;
+   margin-left: 10px;
+    float: left;
+    
+       
+    
+    }
+#tile5
+{
+   width:190px;
+    height: 190px;
+    float: left;
+     
+    
+    }
+    
+#content
+{
+ width: 1000px;
+ min-height: 650px;   
+ background-color: white;
+ text-align: center;
+ 
+}
+#content1
+{
+ width: 1000px;
+ min-height: 450px;   
+ background-color: white;
+ text-align: center;
+ 
+}
+
+#content2
+{
+ width: 1000px;
+ min-height: 470px;   
+ background-color: white;
+ text-align: center;
+ 
+}
+#contentcu
+{
+ width: 1000px;
+ min-height: 450px;   
+ background-color: white;
+ 
+}
+
+
+            
+            
+#reqform
+{
+   width:1000px;
+    min-height:400px ; 
+    text-align:center;
+    background-color: white;
+    
+}
+
+#freespace{
+     width:1000px;
+    min-height:100px ;
+    text-align:center;
+    font-family: inherit;
+
+}
+#links
+{
+height:30px;
+text-align:center; 
+ padding-top: 10px;  
+ color: white;
+    
+    
+}
+
+#link1
+{
+height:20px;
+width:200px;  
+float: left;
+ color: white;
+
+}
+#link2
+{
+height:20px;
+width:200px; 
+float: left;
+ color: white;
+}
+#link3
+{
+height:20px;
+width:200px;
+float: left;
+ color: white; 
+}
+#link4
+{
+    float: left;
+height:20px;
+width:200px;
+ color: white;  
+}
+#link5
+{
+height:20px;
+float: left;
+width:200px;
+ color: white;  
+}
+#side
+{
+height: 550px;
+width: 20px;
+float: left;    
+    
+}
+
+#line
+{
+ height: 2px;
+ width:1000px;
+ background-color: black;   
+    
+}
+
+#contenthover
+{
+.contenthover { padding:20px 20px 10px 20px; }
+.contenthover, .contenthover h3, .contenthover a { color:black; }
+.contenthover h3, .contenthover p { margin:0 0 10px 0; line-height:1.4em; padding:0; }
+.contenthover a.mybutton { display:block; float:left; padding:5px 10px; background:black; color:black; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; }
+.contenthover a.mybutton:hover { background:black }
+}
+
+#table1
+{
+            width: 100%;
+            }
+        thead 
+        {
+            background-color: black;
+            color: white;
+            text-indent: 14px;
+            text-align: left;
+        }
+        tbody tr:nth-child(odd)
+         {
+            background-color: rgba(0, 255, 0, 0.1); /* green, 10% alpha */
+        }
+        tbody tr:nth-child(even) 
+        {
+            background-color: rgba(255, 0, 0, 0.3); /* red, 30% alpha */
+            }

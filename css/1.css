@@ -1,0 +1,298 @@
+#wrapper{
+    width:1000px;
+    min-height:600px;
+    margin:0 auto;
+}
+
+#header{
+    width:1000px;
+    height: 100px;
+	}
+ #cover{
+    width:100%;
+    height:100px;   
+    
+ }
+ 
+#upper{
+    width:100%;
+    height: 40px;
+    
+}
+	
+#container{
+    width:1000px;
+    min-height: 470px;
+    }
+    
+#lowerborder
+{
+  width:1000px;
+  height:20px;
+  text-align: center;  
+  color: white;
+  font-size : 15px;
+  font-family: tahoma;
+  text-align: left;
+}
+
+#midcontainer{
+    width:820px;
+    min-height:450px ;
+    float: left;
+    
+}	
+
+#firstrow{
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 30px;
+    margin-left:200px ;
+    width:600px;
+    height:200px;
+    
+}
+
+#route{
+   
+    width:190px;
+    height: 190px;
+    float: left;
+}
+
+#contentad
+{
+ width: 1000px;
+ min-height: 650px;   
+ background-color: white;
+ text-align: center;
+    
+}
+#tickets{
+   
+    width:190px;
+    height: 190px;
+    background-color:black;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#special{
+   
+    width:190px;
+    height: 190px;
+    background-color:black;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#secondrow{
+    
+    
+    margin-left:200px ;
+
+    width:800px;
+    height:200px;
+    
+}
+
+#abut{
+   width:390px;
+    height: 190px;
+   margin-left: 10px;
+    float: left;
+     list-style-type: none;
+    
+       
+}
+#subtile4
+{
+    width : 370px;
+    height : 25px;
+}
+#subtile5
+{
+
+    width : 370px;
+    height : 100%;
+
+}
+#line2
+{
+  padding-left: 5px;
+   height:25px; 
+   width:370px;
+   background-color: black;
+    color:lightgreen;
+    float:left;
+}
+#route2
+{
+    width:25px;
+    height:25px;
+    background-color: black;
+    color:lightgreen;
+     font-family: tahoma;
+     font-size: 19px;
+    float:left;
+}
+
+#space
+{
+    width:10px;
+    height:25px;  
+    float:left;
+     font-family: tahoma;
+     font-size: 19px;
+    background-color: black;  
+    color:lightgreen;
+}
+#des1
+{   
+    width:105px;
+    height:25px;
+    float:left;
+     font-family: tahoma;
+     font-size: 16px;
+    background-color: black;
+    color:lightgreen;
+}
+
+}
+#scroller
+{
+     list-style-type: none;
+}
+
+
+#link{
+   
+    width:190px;
+    height: 190px;
+    background-color:black;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#footer{
+    width:1000px;
+    height:30px;
+    position:relative;
+    color: white;
+}
+
+#ftitle{
+    
+    font-size: 15px;
+    padding-top: 8px;
+    color: white;
+    width:100%;
+    font-family: tahoma;
+    text-align: center;
+}
+
+#tile1
+{
+    
+    width:190px;
+    height: 190px;
+    float: left;
+    
+    }
+
+#tile2
+{
+   width:190px;
+    height: 190px;
+    float: left;
+     
+    
+    }
+#tile3
+{
+   width:190px;
+    height: 190px;
+    float: left;
+     
+    
+    }
+    
+#tile4
+{ width:390px;
+    max-height: 190px;
+   margin-left: 10px;
+   margin-bottom: 10px;
+    list-style-type: none;
+       
+    
+    }
+
+#tile5
+{
+   width:190px;
+    height: 190px;
+    float: left;
+     
+    
+    }
+    
+#content
+{
+ width: 1000px;
+ min-height: 650px;   
+ background-color: white;
+ text-align: center;
+}
+#links
+{
+height:30px;
+text-align:center; 
+ padding-top: 10px;  
+ color: white;
+    
+    
+}
+
+#link1
+{
+height:20px;
+width:200px;  
+float: left;
+ color: white;
+
+}
+#link2
+{
+height:20px;
+width:200px; 
+float: left;
+ color: white;
+}
+#link3
+{
+height:20px;
+width:200px;
+float: left;
+ color: white; 
+}
+#link4
+{
+    float: left;
+height:20px;
+width:200px;
+ color: white;  
+}
+#link5
+{
+height:20px;
+float: left;
+width:200px;
+ color: white;  
+ 
+}
+
+
+
